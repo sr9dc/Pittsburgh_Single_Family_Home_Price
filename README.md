@@ -45,6 +45,8 @@ Cole Thomas: AutoML modeling, SciKit learn modeling, Census Bureau dataset
 
 ## Code
 
+#### [EDA Sample 1](https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Project%20Code/Census_EDA.ipynb)
+
 #### [Census_Model_Run.ipynb](https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Project%20Code/Census_Model_Run.ipynb)
 
 #### [Census_Model_Run_AutoML.ipynb](https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Project%20Code/Census_Model_Run.ipynb)
@@ -56,7 +58,15 @@ Cole Thomas: AutoML modeling, SciKit learn modeling, Census Bureau dataset
 View the report pdf to see our detailed findings. 
 
 
-#### [Final Report](https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Project%20Code/Census_Model_Run_AutoML.ipynb)
+#### [Final Report](https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Final%20Report.pdf)
+
+
+## Presentation
+
+View the presentation slides. 
+
+
+#### [Presentation](https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Presentation/Home%20Price%20Presentation%2C%20Thursday%20DEC%208.pdf)
 
 
 
