@@ -49,7 +49,7 @@ Cole Thomas: AutoML modeling, SciKit learn modeling, Census Bureau dataset
 View the report pdf to see our detailed findings. 
 
 
-#### [Final Report](https://google.com)
+#### [Final Report](https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Final%20Report.pdf)
 
 
 
