@@ -43,13 +43,22 @@ Kraig Sheetz: Crime dataset, Schools dataset
 
 Cole Thomas: AutoML modeling, SciKit learn modeling, Census Bureau dataset
 
+## Code
+
+View the Jupyter Notebooks to see our detailed modeling procedures. 
+
+#### [Census_Model_Run.ipynb] (https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Project%20Code/Census_Model_Run.ipynb)
+
+#### [Census_Model_Run_AutoML.ipynb] (https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Project%20Code/Census_Model_Run.ipynb)
+
+
 
 ## Results
 
 View the report pdf to see our detailed findings. 
 
 
-#### [Final Report](https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Final%20Report.pdf)
+#### [Final Report](https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Project%20Code/Census_Model_Run_AutoML.ipynb)
 
 
 
