@@ -10,7 +10,7 @@
 
 ### Built With
 
-* [Jupyter Notebook](https://jupyter.org/)
+* [Jupyter Notebook](https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Project%20Code/Census_Model_Run_AutoML.ipynb)
 
 
 
@@ -49,7 +49,7 @@ Cole Thomas: AutoML modeling, SciKit learn modeling, Census Bureau dataset
 
 #### [Census_Model_Run.ipynb](https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Project%20Code/Census_Model_Run.ipynb)
 
-#### [Census_Model_Run_AutoML.ipynb](https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Project%20Code/Census_Model_Run.ipynb)
+#### [Census_Model_Run_AutoML.ipynb](https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Project%20Code/Census_Model_Run_AutoML.ipynb)
 
 
 
