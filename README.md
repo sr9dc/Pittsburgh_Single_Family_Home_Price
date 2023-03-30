@@ -8,12 +8,6 @@
 
 
 
-### Built With
-
-* [Jupyter Notebook](https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Project%20Code/Census_Model_Run_AutoML.ipynb)
-
-
-
 <!-- ABOUT -->
 ## Topic
 This project aims to build models that can better predict the cost of real estate in Pittsburgh. We will use a variety of data sources related to Pittsburgh to bolster real estate data from sources such as Redfin. 
